@@ -1,0 +1,21 @@
+/*Stilos vista splash*/
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
+.img-responsive{
+    width:100%; 
+    height:670px;
+}
+#content2 .signup-button {
+    
+    text-align: center;
+    height: 10vh;
+    display: inline-block;
+    
+}
+
+
+  
+
